@@ -9,8 +9,8 @@ Mixed partners? (for bonus) : Yes!
 To install just run the " pip install **lib_name** " command.</br>
 (unneccessery in double click)
 
-### How to run?:
-Three options:
+### How to run?
+Three options:</br>
 1. Open the src/main.py on pycharm and click the green button in line 280.
 2. run "python src/main.py" command, work only if the "python" name saved in the computer as the path to the python3.9.
 3. open the dist folder and double click 
